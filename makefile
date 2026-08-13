@@ -1,0 +1,1 @@
+%: %.cpp; @g++ -std=c++17 -Wall -Wextra -D_GLIBCXX_DEBUG $< && ./a.out
